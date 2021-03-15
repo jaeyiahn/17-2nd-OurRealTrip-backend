@@ -8,7 +8,7 @@
 <br>
 <br>
 
-### 🛫나만의 여행이 아닌 우리들의 진짜 여행🛫
+### 🛫 나만의 여행이 아닌 우리들의 진짜 여행🛫
 
 # OurRealTrip
 
@@ -20,15 +20,15 @@
 
 ![ourrealtripPhoto](https://user-images.githubusercontent.com/65124480/111019033-fed1e600-83ff-11eb-9ed3-1a77a682027b.jpg)
 
-### 😎front-end
+### 😎 front-end
 
 -이정민(PM) 곽진석 박경토
 
-### 😍back-end
+### 😍 back-end
 
 -강승연 안재이 정희영 허민지
 
-## 📚Stack
+## 📚 Stack
 
 -**front-end:** <br>
 HTML / CSS / JavaScript / React / CRA / React DOM / React Router DOM / Styled-Components / Slick / SNS Login API / React-date API / RESTfulAPI
@@ -55,9 +55,10 @@ Notion / Slack / Trello / Git / GitHub / Zoom
 - 유저가 선태한 왕복 항공권 데이터 DB 저장 기능 구현
 - FlightRoundTripView에 대한 unit test작성
 - API문서 작성
+<br>
+<br>
 
-### 😎FRONT
-
+### 😎 FRONT
 <br>
 
 이정민
@@ -93,8 +94,7 @@ Notion / Slack / Trello / Git / GitHub / Zoom
 
 <br>
 
-### 😍BACK
-
+### 😍 BACK
 <br>
 
 ### 모델링
