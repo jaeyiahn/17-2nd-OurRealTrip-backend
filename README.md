@@ -28,6 +28,8 @@
 
 -강승연 안재이 정희영 허민지
 
+<br>
+
 ## 📚 Stack
 
 -**front-end:** <br>
@@ -39,29 +41,38 @@ PYTHON / Django / bcrypt / pyjwt / RESTfulAPI / Aquery Tool / MySQL / cors / AWS
 -**Communication Tool:** <br>
 Notion / Slack / Trello / Git / GitHub / Zoom
 
+<br>
+
 ## 구현 목록
 
 로그인페이지 / 항공 메인페이지 / 항공 리스트페이지
 숙박 메인페이지 / 숙박 리스트페이지 / 숙박 디테일페이지
 
+<br>
+
 ## 내가 한 일들
-- Aquery Tool을 사용한 DB모델링
+- Aquery Tool을 사용한 DB모델링 
+![OURREALTRIP_20210315_08_59](https://user-images.githubusercontent.com/72085261/111140749-0c38cd00-85c6-11eb-9ba8-2c361739f76b.png)
 - models.py 작성
 - 항공권 관련 DB csv 파일 작성
 - 유저가 선택한 조건에 맞는 항공권 리스트 데이터 응답 기능 구현
+![flignt_list](https://user-images.githubusercontent.com/72085261/111140883-31c5d680-85c6-11eb-8eee-ec2c7164b602.gif)
 - 가격 낮은순, 출발시간 빠른순/늦은순 정렬 기능 구현
+![flignt_list_ordering](https://user-images.githubusercontent.com/72085261/111140956-47d39700-85c6-11eb-88c7-2ef1b6c2cbee.gif)
 - 출발 시간대에 따른 필터링 기능 구현
+![flignt_list_filtering](https://user-images.githubusercontent.com/72085261/111141005-56ba4980-85c6-11eb-94e8-e7e27c0d4f46.gif)
 - FlightView에 대한 unit test작성
 - 유저가 선태한 왕복 항공권 데이터 DB 저장 기능 구현
 - FlightRoundTripView에 대한 unit test작성
-- API문서 작성
+- API문서 작성 <br>
+![API_document](https://user-images.githubusercontent.com/72085261/111141132-836e6100-85c6-11eb-932d-2dda95b2d8b1.gif)
 <br>
 <br>
 
 ### 😎 FRONT
 <br>
 
-이정민
+### 이정민
 
 - URL에 따른 Navbar Change 및 로그인 token으로 바뀌는 Navbar 레이아웃 <br>
 - 카카오 소셜 로그인 구현 <br>
@@ -74,7 +85,7 @@ Notion / Slack / Trello / Git / GitHub / Zoom
 
 <br>
 
-곽진석
+### 곽진석
 
 - 항공메인페이지 : 전체 레이아웃 구현 및 슬릭을 활용한 메인페이지 슬라이드 구현
 - 항공메인페이지 : 캘린더API를 활용한 메인페이지 캘린더 구현
@@ -85,7 +96,7 @@ Notion / Slack / Trello / Git / GitHub / Zoom
 
 <br>
 
-박경토
+### 박경토
 
 - Navbar : styled components를 활용한 레이아웃 구현
 - Navbar : window.location을 이용한 항공 및 숙박 메인페이지 이동 구현
@@ -129,7 +140,6 @@ select_related, prefetch_related를 통한 Caching 활용
 <br>
 
 ### 항공
-
 
 - **항공 리스트 기능 구현:** <br>
 Django ORM(Q객체, chianing 등)을 활용한 다양한 filtering 구현 및 unit test
