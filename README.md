@@ -17,9 +17,6 @@
 2021.03.02 ~ 2021.03.12(11일)
 
 ## 팀원 소개
-
-![ourrealtripPhoto](https://user-images.githubusercontent.com/65124480/111019033-fed1e600-83ff-11eb-9ed3-1a77a682027b.jpg)
-
 ### 😎 front-end
 
 -이정민(PM) 곽진석 박경토
