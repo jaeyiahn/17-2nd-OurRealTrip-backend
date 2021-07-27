@@ -156,7 +156,7 @@ AWS(EC2, RDS) 데이터베이스 구축 및 배포
 
 ### Document
 
-- [API Document](https://www.notion.so/API-Document-1cf78af22e05467487da83827bf5ea9f, "API Document")
+- [API Document](https://www.notion.so/API-Document-e1c56cbbc3a3418b8f1d211aaf4fcd71, "API Document")
 
 <br>
 
