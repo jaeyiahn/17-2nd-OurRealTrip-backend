@@ -21,6 +21,7 @@
 - FlightView에 대한 unit test작성
 - 유저가 선태한 왕복 항공권 데이터 DB 저장 기능 구현
 - FlightRoundTripView에 대한 unit test작성
+- AWS를 통한 서버구축 및 배포
 - API문서 작성 <br>
 ![API_document](https://user-images.githubusercontent.com/72085261/111141132-836e6100-85c6-11eb-932d-2dda95b2d8b1.gif)
 
