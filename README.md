@@ -10,7 +10,7 @@
 로그인페이지 / 항공 메인페이지 / 항공 리스트페이지
 숙박 메인페이지 / 숙박 리스트페이지 / 숙박 디테일페이지
 
-## 담당 
+## 담당 기능
 - Aquery Tool을 사용한 DB모델링 
 ![OURREALTRIP_20210315_08_59](https://user-images.githubusercontent.com/72085261/111140749-0c38cd00-85c6-11eb-9ba8-2c361739f76b.png)
 - models.py 작성
